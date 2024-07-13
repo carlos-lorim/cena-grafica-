@@ -1,0 +1,10 @@
+triangulo 3 4 5
+quadrado 10
+retangulo 5 8
+circulo 5
+cilindro 2 5
+paralelepipedo 3 4 5
+cone 5 10
+cubo 6
+esfera 3
+fim 
